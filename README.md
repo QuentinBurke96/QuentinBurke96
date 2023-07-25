@@ -3,7 +3,7 @@
 
 
 #### Full Stack Developer
-_Full Stack Engineer based out of Atlanta, Ga working towards innovation and development of my craft with along with my peers.Perfecting my skills as a Full Stack Developer accustomed to working in a fast-paced, result-oriented environment with skills including but not limited to Javascript, HTML5, CSS, React, Rest API, Node.js, Express, MongoDB, SQL, Boo._
+_Full Stack Engineer based out of Atlanta, Ga working towards innovation and development of my craft with along with my peers. Perfecting my skills as a Full Stack Developer accustomed to working in a fast-paced, result-oriented environment with skills including but not limited to Javascript, HTML5, CSS, React, Rest API, Node.js, Express, MongoDB, SQL, Boo._
 
 ### Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/quentinburke96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/quentin-burke-57a606126/) 
